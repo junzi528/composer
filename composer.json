@@ -1,0 +1,14 @@
+{
+    "name": "junzi528/composer",
+    "description": "test project2",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "junzi528",
+            "email": "0dian618@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
