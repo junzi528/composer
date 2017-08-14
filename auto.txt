@@ -1,0 +1,1 @@
+设置packagist自动更新
